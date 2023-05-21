@@ -1,0 +1,1 @@
+Type of variable that allows to get information from the target systems.
