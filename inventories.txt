@@ -1,1 +1,24 @@
+Inventories describe how Ansible can locate and run against multiple target systems.
 
+Inventories may be formatted as an INI or YAML files. File formats are interchangable.
+
+Inventory define a list of hosts.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Default location is /etc/ansible/hosts
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+It is possible to define:
+- Hosts
+- Groups of hosts
+- Host level variables
+- Group level variables
+- Groups of groups
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Many of variables can be used within the inventory to control how Ansible connects to and interacts with target hosts.
+
+Varibles can be passed through SSH arguments.
