@@ -1,1 +1,12 @@
-Variables are used for customizing configuratins.
+Variables are used for customizing configurations. Can be used to store the return value of executed commands.
+
+Variables can be letters, numbers or underscores.
+
+Variables can be dictionaries.
+
+Variables should always start with a letter.
+
+Variables can be scoped by a group, host, or playbook.
+
+There are predefined variables in Ansible.
+
