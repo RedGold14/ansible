@@ -1,1 +1,11 @@
 Type of variable that allows to get information from the target systems.
+
+Facts provide information about a target host.
+
+Facts gathering may be disabled.
+
+Facts can be cahed between executions of a playbook, but this is not default behaviour.
+
+Ansible discover facts automatically when it reaches out to a host.
+
+
