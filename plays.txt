@@ -1,1 +1,3 @@
+Plays provides mapping between a group of hosts to some well-defined roles.
 
+Plays uses modules to achieve a desired end state on a group of hosts.
