@@ -1,1 +1,9 @@
+Possible locations:
+- ANSIBLE_CONFIG (environment variable)
+- ansible.cfg (current directory)
+- .ansible.cfg (home directory)
+- /etc/ansible/ansible.cfg
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Configurations can be set in environment variables.
