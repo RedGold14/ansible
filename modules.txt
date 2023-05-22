@@ -1,1 +1,11 @@
 Modules - tools that ansible uses to execute commands on remote systems.
+
+Modules looks like one to one relationship with the commands.
+
+Modules can take parameters.
+
+Modules return JSON as output.
+
+Modules can run from the command line or within a playbook.
+
+It is possible to create custom module.
